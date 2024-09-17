@@ -13,4 +13,6 @@ NumPy
 
 File Description:
 loan-data.csv: The original raw loan dataset.
+EUR-USED.csv: This contains average monthly exchange rates.
+loan_data.ipynb: Python notebook used for preprocessing the data.
 loan_data_preprocessed.csv: The cleaned and preprocessed loan dataset.
